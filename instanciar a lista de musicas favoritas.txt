@@ -1,0 +1,3 @@
+https://screen-sound.vercel.app/
+
+gerado o arquivo .json basta arrasta até o site e o front mostrará todas as musicas listadas.
